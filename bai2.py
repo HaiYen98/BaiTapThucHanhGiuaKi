@@ -1,4 +1,4 @@
-from Bai1 import Point
+from bai1 import Point
 import math
 
 class LineSegment:
